@@ -9,13 +9,18 @@ body {
 </style>
 
 <template>
-	<div class="container">
-
-	</div>
+	<section class="container">
+	<myheader></myheader>
+	</section>
 </template>
 
 <script>
+import myheader from './components/myheader.vue';
+
 export default {
-    el: "#app"
+    el: "#app",
+    components: {
+        myheader
+    }
 };
 </script>
