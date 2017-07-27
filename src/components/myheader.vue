@@ -7,7 +7,7 @@
 			width: 100%;
 			text-align: center;
 			transform: translateY(-50%);
-			font-size: 20/37.5rem;
+			font-size: 40/75rem;
 			color: #3f63b7;
 		}
 	}

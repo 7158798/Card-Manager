@@ -10,17 +10,20 @@ body {
 
 <template>
 	<section class="container">
-	<myheader></myheader>
+		<myheader></myheader>
+		<bank-list></bank-list>
 	</section>
 </template>
 
 <script>
 import myheader from './components/myheader.vue';
+import bankList from './components/bankList.vue';
 
 export default {
     el: "#app",
     components: {
-        myheader
+        myheader,
+		bankList
     }
 };
 </script>
