@@ -5,6 +5,7 @@
 }
 body {
     font-family: "Bree Serif", "Open Sans", "Arial", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", serif;
+	background-color: #96d7e6;
 }
 </style>
 
