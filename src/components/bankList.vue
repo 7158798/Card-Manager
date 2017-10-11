@@ -78,7 +78,7 @@
 			<div class="detail">
 				<!-- 共计{{bank.count}}张卡 -->
 				<div class="repay-wrap">
-					<span>还款日: <span class="repay-date">{{bank.repaymentDate}}日</span></span>
+					<span><span class="repay-date">{{bank.repaymentDate}}日</span> 还款</span>
 					<div class="go-detail">查看账单</div>
 				</div>
 				<div class="bill-wrap">
